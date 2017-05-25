@@ -1,7 +1,7 @@
 **IOT Enabled Color LEDs**
 ==========================
 
-In today's project, let's make IOT enabled RGB LEDs. Why you ask? As usual, **why not? ** If followed correctly, by the end, you will have a $15 - 20 IOT enabled RGB LEDs. To do this, we will need a few things. 
+In today's project, let's make IOT enabled RGB LEDs. Why you ask? As usual, **why not?** If followed correctly, by the end, you will have a $15 - 20 IOT enabled RGB LEDs. To do this, we will need a few things. 
 
 Item                | Average Value | Recommended Location
 ------------------- | ------------- | --------------------
